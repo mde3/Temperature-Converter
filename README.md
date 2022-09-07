@@ -8,7 +8,8 @@
  
   <h2 align="center">Temperature-Converter</h2>
 
-  <a href="https://gradi-gen.netlify.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://mde3.github.io/Temperature-Converter/"><strong>➥ Live Demo</strong></a>
+  
 
 </div>
 
